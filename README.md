@@ -17,3 +17,6 @@ this is is horizontal line
 - tea
 - milk
 
+how to open hyper links [apssdc] (https://www.apssdc.i)
+
+[ciet college] (htttps://WWW.chalapathiengg.ac.in/)
